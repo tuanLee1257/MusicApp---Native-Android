@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="Shuffle_btn">Shuffle</string>
+    <string name="Favourite_btn">Favourite</string>
+    <string name="Favourite_txt">Favourite</string>
+    <string name="PlayList_btn">Play List</string>
+    <string name="PlayList_txt">Play List</string>
+    <string name="TotalSong_txt">Total Songs</string>
+    <string name="WorldOfMusic">World of music</string>
+    <string name="songName">Song Name</string>
+    <string name="back_btn">Back Button</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading</string>
+    <string name="repeat_btn">Repeat</string>
+    <string name="eq_btn">Equa</string>
+    <string name="timer_btn">Timer</string>
+    <string name="share_btn">Share</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="text_nav">Welcome</string>
+    <string name="feedback_nav">FeedBack</string>
+    <string name="setting_nav">Setting</string>
+    <string name="about_nav">About</string>
+    <string name="exit_nav">Exit</string>
+
+    <string name="addToFarv">Add to farvourite</string>
+    <string name="delete">Delete</string>
+
+
+
+
+
+
+
+</resources>
